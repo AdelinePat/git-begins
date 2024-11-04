@@ -17,3 +17,5 @@ git commit -m "message du commit" => Permet d'enregistrer pour de bon les fichie
 Pour pouvoir pousser nos commit dans le dépôt distant
 git push => permet de publier en ligne nos commits réalisé en local (de mettre à jour le dépôt distant par rapport au dépôt local)
 
+git pull 
+Permet de mettre à jour le dépôt local quand le dépôt distant a été modifié.
