@@ -5,6 +5,8 @@ git clone liendurepository => permet de cloner un dépôt distant en local (c'es
 Pour pouvoir publier nos versions sur GitHub 
 
 git add .
+Permet d'indexer tous les fichiers du dossier
+
 OU
 git add nomdufichier.extension
 
