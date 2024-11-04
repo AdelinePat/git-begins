@@ -1,0 +1,19 @@
+Exercice consistant à écrire les commandes utiles dans Git.
+
+git clone liendurepository => permet de cloner un dépôt distant en local (c'est à dire sur notre pc).
+
+Pour pouvoir publier nos versions sur GitHub 
+
+git add .
+OU
+git add nomdufichier.extension
+
+Permet d'indexer les fichiers ajoutés/modifiés dans le projet. Met à jour les versions qui sont en phase de staging après cette commandes
+
+Pour passer du staging au commit :
+
+git commit -m "message du commit" => Permet d'enregistrer pour de bon les fichiers dans stagé (indexé) avec un message qui explique la raison des modifications afin de mieux s'y retrouver.
+
+Pour pouvoir pousser nos commit dans le dépôt distant
+git push => permet de publier en ligne nos commits réalisé en local (de mettre à jour le dépôt distant par rapport au dépôt local)
+
