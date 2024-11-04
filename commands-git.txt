@@ -19,3 +19,12 @@ git push => permet de publier en ligne nos commits réalisé en local (de mettre
 
 git pull 
 Permet de mettre à jour le dépôt local quand le dépôt distant a été modifié.
+
+git branch branch_name
+Permet de créer une nouvelle branch_name
+
+git branch 
+Permet de voir la liste des branches existante 
+
+git checkout branch_name
+Permet de switcher sur la branche voulue (ici branch_name)
